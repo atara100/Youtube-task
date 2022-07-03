@@ -19,7 +19,7 @@ creator.addVideo(newVideo);
 
 class ApplicationState{
     constructor(){
-      this.appState=false;
+      this.appState=true;
     }
 
     //פונקציה לכיבוי והדלקת האפליקציה
