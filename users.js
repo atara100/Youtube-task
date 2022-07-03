@@ -1,4 +1,4 @@
-export class Users{
+ class Users{
     constructor(){
 
     }
@@ -8,4 +8,4 @@ export class Users{
     }
 }
 
-//export {Users}
+export {Users}
