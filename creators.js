@@ -14,4 +14,4 @@
     }
 }
 
-module.export={Creators};
+export{Creators};
